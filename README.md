@@ -10,7 +10,7 @@ Criar topico no kafka: kafka-topics.sh --bootstrap-server localhost:9092 --creat
 Produtor: 
 https://github.com/vinicius-hora/estudo-kafka/tree/main/ingressos.
 
-Executar /kafka/servico/GeradorVendas.java
+Executar: /kafka/servico/GeradorVendas.java
 
 consumidor: https://github.com/vinicius-hora/estudo-kafka/tree/main/processamento-ingressos.
 
